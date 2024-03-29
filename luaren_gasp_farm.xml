@@ -46,7 +46,7 @@
 		<POI MapID="1526" xpos="973.327" ypos="258.277" zpos="137.476" type="exploration.resources.currency.gasp.orbs" GUID="p3t5yG0eE0Cy8avMI3BE0w=="/>
 		<POI MapID="1526" xpos="900.788" ypos="259.708" zpos="191.877" type="exploration.resources.currency.gasp.orbs" GUID="NfLDnvuKPEGXHKXPCUvl6Q=="/>
 		<POI MapID="1526" xpos="978.425" ypos="239.511" zpos="118.012" type="exploration.resources.currency.gasp.orbs" GUID="UBgmbfW3P0mUy6joNaqzLA=="/>
-		<POI MapID="1526" xpos="907.637" ypos="235.002" zpos="211.206" type="exploration.resources.currency.gasp" GUID="tcMV2vMzaEyZzS98Gr6ypg==" iconFile="Data/Icons/finish_flag.png"/>
+		<POI MapID="1526" xpos="907.637" ypos="235.002" zpos="211.206" type="exploration.resources.currency.gasp" GUID="tcMV2vMzaEyZzS98Gr6ypg==" iconFile="Data/Icons/finish_flag.png" autoTrigger="1" triggerRange="10" copy="[&amp;BHYOAAA=]" copy-message="Head to Forward Bivouac, if needed! WP copied!"/>
 		<POI MapID="1526" xpos="383.45" ypos="378.323" zpos="448.754" type="exploration.resources.currency.gasp.orbs" GUID="WXO5Gv6CqUKJAPGlnWpZWg=="/>
 		<POI MapID="1526" xpos="403.922" ypos="401.272" zpos="469.859" type="exploration.resources.currency.gasp.orbs" GUID="YjMC+2lSC0uitqYViQPVnA=="/>
 		<POI MapID="1526" xpos="402.592" ypos="400.808" zpos="429.601" type="exploration.resources.currency.gasp.orbs" GUID="+r9nF6GQxEmFD3ZepTFLbg=="/>
@@ -60,5 +60,36 @@
 		<POI MapID="1526" xpos="412.451" ypos="485.892" zpos="412.153" type="exploration.resources.currency.gasp.orbs" GUID="fpUSUZP4MUiK0kbgap043g=="/>
 		<POI MapID="1526" xpos="383.938" ypos="474.883" zpos="448.915" type="exploration.resources.currency.gasp.orbs" GUID="kOeLCTBsD0iRdKiIlytsVA=="/>
 		<POI MapID="1526" xpos="373.414" ypos="460.901" zpos="416.532" type="exploration.resources.currency.gasp.orbs" GUID="Y8YtANPMP0yT2+0V+yxKsQ=="/>
+		<POI MapID="1526" xpos="186.441" ypos="231.889" zpos="-58.528" type="exploration.resources.currency.gasp.orbs" GUID="MRniGBUTvkqYE2VZ+0qNZQ=="/>
+		<POI MapID="1526" xpos="68" ypos="225.111" zpos="-26.5272" type="exploration.resources.currency.gasp.orbs" GUID="hZCChuEy2EmXZMa0d1dD6g=="/>
+		<POI MapID="1526" xpos="8.72329" ypos="360.848" zpos="77.0402" type="exploration.resources.currency.gasp.orbs" GUID="ZEqfti2nN0Ksxy5JAwPEZQ=="/>
+		<POI MapID="1526" xpos="12.5203" ypos="421.645" zpos="189.368" type="exploration.resources.currency.gasp.orbs" GUID="UV94uzG+KEiSVTEefIqv4A=="/>
+		<POI MapID="1526" xpos="83.2911" ypos="434.276" zpos="170.795" type="exploration.resources.currency.gasp.orbs" GUID="L8ruEJupv0GITU5/UhUkqw=="/>
+		<POI MapID="1526" xpos="176.061" ypos="455.49" zpos="112.244" type="exploration.resources.currency.gasp.orbs" GUID="VE0jXV3SQUuZyvltvVUbdQ=="/>
+		<POI MapID="1526" xpos="235.348" ypos="461.841" zpos="40.8016" type="exploration.resources.currency.gasp.orbs" GUID="OyyNfi99pE+PJSzks1SyEw=="/>
+		<POI MapID="1526" xpos="234.456" ypos="458.45" zpos="-20.8257" type="exploration.resources.currency.gasp.orbs" GUID="MJnrToQpVUm5rj+zmoHKdg=="/>
+		<POI MapID="1526" xpos="168.242" ypos="459.163" zpos="-38.9377" type="exploration.resources.currency.gasp.orbs" GUID="pvetvfzX4E60YQU7egaRdA=="/>
+		<POI MapID="1526" xpos="99.8823" ypos="449.016" zpos="-22.8819" type="exploration.resources.currency.gasp.orbs" GUID="QZ0r14V8hECG6faKN8acCA=="/>
+		<POI MapID="1526" xpos="3.36323" ypos="422.689" zpos="64.7649" type="exploration.resources.currency.gasp.orbs" GUID="8Tg4JOFvmUeXYtZrmnkdlw=="/>
+		<POI MapID="1526" xpos="-38.8716" ypos="412.838" zpos="112.755" type="exploration.resources.currency.gasp.orbs" GUID="ioWzxfvKvkyC67Ryvx7ibg=="/>
+		<POI MapID="1526" xpos="-44.8701" ypos="410.437" zpos="157.473" type="exploration.resources.currency.gasp.orbs" GUID="+fcuqY0KqUG8FuPSVcsl4A=="/>
+		<POI MapID="1526" xpos="-74.6555" ypos="307.172" zpos="356.965" type="exploration.resources.currency.gasp.orbs" GUID="+1uoiZ35YkidhoUKopIcGA=="/>
+		<POI MapID="1526" xpos="-32.2658" ypos="247.792" zpos="-252.053" type="exploration.resources.currency.gasp.orbs" GUID="A45tRlA2H0CeK7jzmeYIgg=="/>
+		<POI MapID="1526" xpos="-4.51088" ypos="247.509" zpos="-255.263" type="exploration.resources.currency.gasp.orbs" GUID="pJWAWn/SFkWQydk5Jh80aA=="/>
+		<POI MapID="1526" xpos="0.88785" ypos="266.6" zpos="-280.159" type="exploration.resources.currency.gasp.orbs" GUID="mSOBdYzc+EOOr/Z+5o+61A=="/>
+		<POI MapID="1526" xpos="-34.8102" ypos="268.602" zpos="-279.987" type="exploration.resources.currency.gasp.orbs" GUID="+RjyeW/1gkyVUyUZFvbuFw=="/>
+		<POI MapID="1526" xpos="-47.3736" ypos="279.384" zpos="-262.661" type="exploration.resources.currency.gasp.orbs" GUID="ktmFQaBqaUOh5Q0IgQ7CLg=="/>
+		<POI MapID="1526" xpos="-49.4247" ypos="280.485" zpos="-253.041" type="exploration.resources.currency.gasp.orbs" GUID="gLtLLJdySk+N86wiIyzJvQ=="/>
+		<POI MapID="1526" xpos="-48.8949" ypos="335.642" zpos="-258.243" type="exploration.resources.currency.gasp.orbs" GUID="r9XUPqHYWUuPjU8WszgWtw==" iconFile="Data/Icons/finish_flag.png" autoTrigger="1" triggerRange="10" copy="[&amp;BGYOAAA=]" copy-message="Head to Astral WArd Camp, if needed! WP copied!"/>
+		<POI MapID="1526" xpos="-0.849136" ypos="357.908" zpos="-245.868" type="exploration.resources.currency.gasp.orbs" GUID="6wUI5HPdk0yIwB6OOhN3oA=="/>
+		<POI MapID="1526" xpos="-38.1502" ypos="376.887" zpos="-273.369" type="exploration.resources.currency.gasp.orbs" GUID="hMM+1lWuvEW5IVVwfbvEpQ=="/>
+		<POI MapID="1526" xpos="-48.737" ypos="367.494" zpos="-262.401" type="exploration.resources.currency.gasp.orbs" GUID="GV+JM8vXH0C6rYvV2BGhjw=="/>
+		<POI MapID="1526" xpos="24.9006" ypos="311.384" zpos="-231.887" type="exploration.resources.currency.gasp.orbs" GUID="XswWv/GqN0GRA2nliFId+A=="/>
+		<POI MapID="1526" xpos="507.297" ypos="262.797" zpos="449.102" type="exploration.resources.currency.gasp.orbs" GUID="aku6kT/HPkOBmdq6dCr7VA=="/>
+		<POI MapID="1526" xpos="610.677" ypos="314.69" zpos="-389.37" type="exploration.resources.currency.gasp.orbs" GUID="pI83dIDpj06l9RfB4+H4Zg=="/>
+		<POI MapID="1526" xpos="618.568" ypos="321.128" zpos="-345.762" type="exploration.resources.currency.gasp.orbs" GUID="KgD+sm1BMU6N+kgU502B5Q=="/>
+		<POI MapID="1526" xpos="627.247" ypos="327.417" zpos="-300.882" type="exploration.resources.currency.gasp.orbs" GUID="2s0dAbW4RkOljzH90J0qbw=="/>
+		<POI MapID="536" xpos="-254.667" ypos="18.1654" zpos="-346.736" type="exploration.resources.currency.gasp.orbs" GUID="3kkbWkXItEezTwUiEJOIGQ=="/>
+		<POI MapID="536" xpos="-246.63" ypos="21.3626" zpos="-340.22" type="exploration.resources.currency.gasp.orbs" GUID="wov++yskE0a2do7XW48mPw=="/>
 	</POIs>
 </OverlayData>
