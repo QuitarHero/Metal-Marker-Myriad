@@ -1,0 +1,77 @@
+<OverlayData>
+    <MarkerCategory name="mmm" displayname="Metal Marker Myriad">
+        <MarkerCategory name="legendaries" displayname="Legendary Gear">
+            <MarkerCategory name="raidarmor" displayname="Raid Armor">
+                <MarkerCategory name="envoy1" displayname="Envoy I: Experimental Armor" achievementid="2646">
+                    <MarkerCategory name="ilc" displayname="Infused Living Crystal" achievementbit="0"/>
+                    <MarkerCategory name="ism" displayname="Infused Soul Mirror" achievementbit="1"/>
+                    <MarkerCategory name="aec" displayname="Auric Energy Crystal" achievementbit="2"/>
+                    <MarkerCategory name="sw" displayname="Spirit Weave" achievementbit="3"/>
+                    <MarkerCategory name="ce" displayname="Coagulated Ectoplasm" achievementbit="4"/>
+                    <MarkerCategory name="ad" displayname="Arcane Dust" achievementbit="6"/>
+                    <MarkerCategory name="mm" displayname="Mushroom Medley" achievementbit="7"/>
+                    <MarkerCategory name="gb" displayname="Giant Beehive" achievementbit="8"/>
+                    <MarkerCategory name="voftw" displayname="Vial of Forsaken Thicket Waters" achievementbit="9"/>
+                    <MarkerCategory name="bb" displayname="Bloodstone Battery (Charged)" achievementbit="12"/>
+                    <MarkerCategory name="sotk" displayname="Soul of the Keep" achievementbit="13"/>
+                    <MarkerCategory name="ta" displayname="Tormented Aurillium" achievementbit="14"/>
+                    <MarkerCategory name="ss" displayname="Spirit Strings" achievementbit="15"/>
+                    <MarkerCategory name="bie" displayname="Blodstone-Infused Ectoplasm" achievementbit="16"/>
+                </MarkerCategory>
+                <MarkerCategory name="envoy2" displayname="Envoy II: Refined Armor" achievementid="3012">
+                    <MarkerCategory name="crystalline" displayname="Crystalline Heart" achievementbit="0"/>
+                    <MarkerCategory name="vine" displayname="Infused Living Crystal" achievementbit="1"/>
+                    <MarkerCategory name="burning" displayname="Infused Living Crystal" achievementbit="2"/>
+                    <MarkerCategory name="frozen" displayname="Infused Living Crystal" achievementbit="3"/>
+                    <MarkerCategory name="windy" displayname="Infused Living Crystal" achievementbit="4"/>
+                    <MarkerCategory name="sodden" displayname="Infused Living Crystal" achievementbit="5"/>
+                    <MarkerCategory name="leyinfused" displayname="Infused Living Crystal" achievementbit="6"/>
+                    <MarkerCategory name="cultivated" displayname="Infused Living Crystal" achievementbit="7"/>
+                    <MarkerCategory name="penitent" displayname="Infused Living Crystal" achievementbit="8"/>
+                    <MarkerCategory name="jade" displayname="Infused Living Crystal" achievementbit="9"/>
+                    <MarkerCategory name="protected" displayname="Infused Living Crystal" achievementbit="10"/>
+                    <MarkerCategory name="tormented" displayname="Infused Living Crystal" achievementbit="11"/>
+                    <MarkerCategory name="demonic" displayname="Infused Living Crystal" achievementbit="12"/>
+                    <MarkerCategory name="redeemed" displayname="Infused Living Crystal" achievementbit="13"/>
+                </MarkerCategory>
+            </MarkerCategory>
+        </MarkerCategory>
+    </MarkerCategory>
+    <POIs>
+        <!-- Infused Living Crystal -->
+        <Trail type="mmm.legendaries.raidarmor.envoy1.ilc" trailData="Data/Trails/raid_armor_living_crystal.trl" texture="Data/Icons/arrow_trail.png" color="fffffff"/>
+        <!-- Infused Soul Mirror -->
+        <Trail type="mmm.legendaries.raidarmor.envoy1.ism" trailData="Data/Trails/raid_armor_soul_mirror.trl" texture="Data/Icons/arrow_trail.png" color="fffffff"/>
+            <!-- Mark the sconce and where to interact -->
+        <!-- Auric Energy Crystal -->
+        <Trail type="mmm.legendaries.raidarmor.envoy1.aec" trailData="Data/Trails/raid_armor_auric_energy_crystal.trl" texture="Data/Icons/arrow_trail.png" color="ffffff"/>
+        <!-- Spirit Weave -->
+        <!-- Coagulated Ectoplasm -->
+        <!-- Arcane Dust -->
+        <Trail type="mmm.legendaries.raidarmor.envoy1.ad" trailData="Data/Trails/raid_armor_powdered_aurillium.trl" texture="Data/Icons/arrow_trail.png" color="fffffff"/>
+        <POI MapID="1043" xpos="133.9706" ypos="3.48297" zpos="-299.9541" type="mmm.legendaries.raidarmor.envoy1.ad" iconFile="Data/Icons/skyscale.png" GUID="20WW+0NXkUSrL/t5Bqiugw=="/>
+        <!-- Mushroom Medley -->
+        <!-- Giant Beehive -->
+        <!-- Vial of Forsaken Thicket Waters -->
+        <!-- Bloodstone Battery -->
+        <!-- Soul of the Keep -->
+        <!-- Tormented Aurillium -->
+        <Trail type="mmm.legendaries.raidarmor.envoy1.ta" trailData="Data/Trails/raid_armor_tormented_aurillium.trl" texture="Data/Icons/arrow_trail.png" color="fffffff"/>
+        <!-- Spirit Strings -->
+        <!-- Bloodstone-Infused Ectoplasm -->
+        <!-- Crystalline Heart -->
+        <!-- Vine Heart -->
+        <!-- Burning Heart -->
+        <!-- Frozen Heart -->
+        <!-- Windy Heart -->
+        <!-- Sodden Heart -->
+        <!-- Ley-Infused Heart -->
+        <!-- Cultivated Heart -->
+        <!-- Penitent Heart -->
+        <!-- Jade Heart -->
+        <!-- Protected Heart -->
+        <!-- Tormented Heart -->
+        <!-- Demonic Heart -->
+        <!-- Redeemed Heart -->
+    </POIs>
+</OverlayData>

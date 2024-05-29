@@ -1,0 +1,72 @@
+<OverlayData>
+    <MarkerCategory name="grid" DisplayName="Photo Grid">
+        <MarkerCategory name="hover" isHidden="1" alpha="0" mapdisplaysize="415"/>
+    </MarkerCategory>
+    <POIs>
+        <Trail type="grid" trailData="Data/Trails/for_grid.trl" texture="Data/Icons/arrow_trail.png" color="fffffff" ingamevisibility="0"/>
+        <POI mapid="21" type="grid.hover" xpos="-875" ypos="0" zpos="875" tip-name="A1" guid="pa10zO6KHEqs5pqRaH1pLw=="/>
+        <POI mapid="21" type="grid.hover" xpos="-625" ypos="0" zpos="875" tip-name="A2" guid="16wgHOb6e0iXitP7vQogMg=="/>
+        <POI mapid="21" type="grid.hover" xpos="-375" ypos="0" zpos="875" tip-name="A3" guid="18p3pFGZsEWAjkeYV+YN3A=="/>
+        <POI mapid="21" type="grid.hover" xpos="-125" ypos="0" zpos="875" tip-name="A4" guid="RRTXVKkMNUSJfb8l4MOgvg=="/>
+        <POI mapid="21" type="grid.hover" xpos="125" ypos="0" zpos="875" tip-name="A5" guid="w98Zp0m5IUCY7lb0OZ/jqg=="/>
+        <POI mapid="21" type="grid.hover" xpos="375" ypos="0" zpos="875" tip-name="A6" guid="w/MvEeJbMEqP1ICJy7zejA=="/>
+        <POI mapid="21" type="grid.hover" xpos="625" ypos="0" zpos="875" tip-name="A7" guid="/BwGunTGYk27d1Ya/ZLwgg=="/>
+        <POI mapid="21" type="grid.hover" xpos="875" ypos="0" zpos="875" tip-name="A8" guid="1Jb7EVqrnkmHLlmkWGWD8A=="/>
+        <POI mapid="21" type="grid.hover" xpos="-875" ypos="0" zpos="625" tip-name="B1" guid="DcFZFrmzgk6eS8RFSPzq2w=="/>
+        <POI mapid="21" type="grid.hover" xpos="-625" ypos="0" zpos="625" tip-name="B2" guid="V5GfKh6LG0iy8+DgENZqsQ=="/>
+        <POI mapid="21" type="grid.hover" xpos="-375" ypos="0" zpos="625" tip-name="B3" guid="lao+FVgJX0+p0bDl9/maPA=="/>
+        <POI mapid="21" type="grid.hover" xpos="-125" ypos="0" zpos="625" tip-name="B4" guid="XYDnoUcX20y6ZTBJhsIc5w=="/>
+        <POI mapid="21" type="grid.hover" xpos="125" ypos="0" zpos="625" tip-name="B5" guid="qyL5gHmvr0GzGKsFCMeBGw=="/>
+        <POI mapid="21" type="grid.hover" xpos="375" ypos="0" zpos="625" tip-name="B6" guid="nWGT3X701kqgzdllX3+Swg=="/>
+        <POI mapid="21" type="grid.hover" xpos="625" ypos="0" zpos="625" tip-name="B7" guid="US5yXOY/cEC6fJNOcM5aPQ=="/>
+        <POI mapid="21" type="grid.hover" xpos="875" ypos="0" zpos="625" tip-name="B8" guid="T5mrV+hOZU6cAnfzEZDcZQ=="/>
+        <POI mapid="21" type="grid.hover" xpos="-875" ypos="0" zpos="375" tip-name="C1" guid="+t1uQ4Detkagqu/4hLPY5g=="/>
+        <POI mapid="21" type="grid.hover" xpos="-625" ypos="0" zpos="375" tip-name="C2" guid="7XVHHaw0802qJVXAJfm1ug=="/>
+        <POI mapid="21" type="grid.hover" xpos="-375" ypos="0" zpos="375" tip-name="C3" guid="IlhV0cGbw0OR/MPt/szPtg=="/>
+        <POI mapid="21" type="grid.hover" xpos="-125" ypos="0" zpos="375" tip-name="C4" guid="B8yIDWY7kUqNNfqMbFOYNw=="/>
+        <POI mapid="21" type="grid.hover" xpos="125" ypos="0" zpos="375" tip-name="C5" guid="57yewkjFg065VNYgDSJ54w=="/>
+        <POI mapid="21" type="grid.hover" xpos="375" ypos="0" zpos="375" tip-name="C6" guid="BKauqgx91UWaB3DTawa6SQ=="/>
+        <POI mapid="21" type="grid.hover" xpos="625" ypos="0" zpos="375" tip-name="C7" guid="kor3Ioy6fkWiVc4fdY0G0Q=="/>
+        <POI mapid="21" type="grid.hover" xpos="875" ypos="0" zpos="375" tip-name="C8" guid="HbuC87ArQEWuH3dWKVO/Xg=="/>
+        <POI mapid="21" type="grid.hover" xpos="-875" ypos="0" zpos="125" tip-name="D1" guid="aQr6agswe0izqqjwKatnaQ=="/>
+        <POI mapid="21" type="grid.hover" xpos="-625" ypos="0" zpos="125" tip-name="D2" guid="0B2j/1cXfE+b/w0hm1c8Dg=="/>
+        <POI mapid="21" type="grid.hover" xpos="-375" ypos="0" zpos="125" tip-name="D3" guid="kqDJI5620Eao0brzg1avpw=="/>
+        <POI mapid="21" type="grid.hover" xpos="-125" ypos="0" zpos="125" tip-name="D4" guid="2zr4z9u/ekauC2SiaA6Zmw=="/>
+        <POI mapid="21" type="grid.hover" xpos="125" ypos="0" zpos="125" tip-name="D5" guid="nSAYFBsfMkyWzU13SXs6XQ=="/>
+        <POI mapid="21" type="grid.hover" xpos="375" ypos="0" zpos="125" tip-name="D6" guid="1qZ8wJcotkuymhNWZIFeYg=="/>
+        <POI mapid="21" type="grid.hover" xpos="625" ypos="0" zpos="125" tip-name="D7" guid="AtnufR75V0G5mDJjBvUFhA=="/>
+        <POI mapid="21" type="grid.hover" xpos="875" ypos="0" zpos="125" tip-name="D8" guid="OENZjS7PC0WJtl6vdx2jog=="/>
+        <POI mapid="21" type="grid.hover" xpos="-875" ypos="0" zpos="-125" tip-name="E1" guid="0loSL7ndtEy+wx8WBFxOng=="/>
+        <POI mapid="21" type="grid.hover" xpos="-625" ypos="0" zpos="-125" tip-name="E2" guid="bgTLUBu2LkKcgyU8SBqnmA=="/>
+        <POI mapid="21" type="grid.hover" xpos="-375" ypos="0" zpos="-125" tip-name="E3" guid="6Z8TTxvgAE6MQjcHASK+iQ=="/>
+        <POI mapid="21" type="grid.hover" xpos="-125" ypos="0" zpos="-125" tip-name="E4" guid="+SxLIx/wEUCBow2/2VAfcA=="/>
+        <POI mapid="21" type="grid.hover" xpos="125" ypos="0" zpos="-125" tip-name="E5" guid="PkRGcxxur0CZB8CGRYseHw=="/>
+        <POI mapid="21" type="grid.hover" xpos="375" ypos="0" zpos="-125" tip-name="E6" guid="V+P3HjEOzk6OPNmFkO/HZw=="/>
+        <POI mapid="21" type="grid.hover" xpos="625" ypos="0" zpos="-125" tip-name="E7" guid="/F6a0wT0cU2lxVeCBWyrHA=="/>
+        <POI mapid="21" type="grid.hover" xpos="875" ypos="0" zpos="-125" tip-name="E8" guid="DkzZOfK9NU+mg0BG+NE0pg=="/>
+        <POI mapid="21" type="grid.hover" xpos="-875" ypos="0" zpos="-375" tip-name="F1" guid="WGy8Tbvsiky3bTajWk+83A=="/>
+        <POI mapid="21" type="grid.hover" xpos="-625" ypos="0" zpos="-375" tip-name="F2" guid="Fw8VZLQrgUiroWpZAyYy1A=="/>
+        <POI mapid="21" type="grid.hover" xpos="-375" ypos="0" zpos="-375" tip-name="F3" guid="EWnBUGOktkSWVLhER3+sDg=="/>
+        <POI mapid="21" type="grid.hover" xpos="-125" ypos="0" zpos="-375" tip-name="F4" guid="xnwDEsfN6k6fcg5gc6QC2A=="/>
+        <POI mapid="21" type="grid.hover" xpos="125" ypos="0" zpos="-375" tip-name="F5" guid="b/h+11QY0Uy6ADn+9jR18g=="/>
+        <POI mapid="21" type="grid.hover" xpos="375" ypos="0" zpos="-375" tip-name="F6" guid="tcC65HtxUkWQ+bqx2cdsgQ=="/>
+        <POI mapid="21" type="grid.hover" xpos="625" ypos="0" zpos="-375" tip-name="F7" guid="ezRqmeI4X0aEffMelD8vYA=="/>
+        <POI mapid="21" type="grid.hover" xpos="875" ypos="0" zpos="-375" tip-name="F8" guid="tFWm7y6QWkGPlQ3pooD7sg=="/>
+        <POI mapid="21" type="grid.hover" xpos="-875" ypos="0" zpos="-625" tip-name="G1" guid="QQz78GZo3kSvVgO6v78XhA=="/>
+        <POI mapid="21" type="grid.hover" xpos="-625" ypos="0" zpos="-625" tip-name="G2" guid="OTX5tPpjjkOvEbcsBkCJRw=="/>
+        <POI mapid="21" type="grid.hover" xpos="-375" ypos="0" zpos="-625" tip-name="G3" guid="q5CEVyB5bECHB+z/pMRlGw=="/>
+        <POI mapid="21" type="grid.hover" xpos="-125" ypos="0" zpos="-625" tip-name="G4" guid="8fMkNsVS+0u5B/n3vTmhhw=="/>
+        <POI mapid="21" type="grid.hover" xpos="125" ypos="0" zpos="-625" tip-name="G5" guid="m1oXXXXTxEqfsPa6OH6suA=="/>
+        <POI mapid="21" type="grid.hover" xpos="375" ypos="0" zpos="-625" tip-name="G6" guid="2dCh4qiYK0mSXFVI3hKkrQ=="/>
+        <POI mapid="21" type="grid.hover" xpos="625" ypos="0" zpos="-625" tip-name="G7" guid="VD28IEt+0Ei//2Ua+fS6MQ=="/>
+        <POI mapid="21" type="grid.hover" xpos="875" ypos="0" zpos="-625" tip-name="G8" guid="FBaTQK5vck6Zn2dyJojU2w=="/>
+        <POI mapid="21" type="grid.hover" xpos="-875" ypos="0" zpos="-875" tip-name="H1" guid="vkJy7YWbwUiQMvj4N3yyDg=="/>
+        <POI mapid="21" type="grid.hover" xpos="-625" ypos="0" zpos="-875" tip-name="H2" guid="Dsn89aF+SEC1yvZnY3KzXg=="/>
+        <POI mapid="21" type="grid.hover" xpos="-375" ypos="0" zpos="-875" tip-name="H3" guid="JzpD6278bUGhfOad5E/pNQ=="/>
+        <POI mapid="21" type="grid.hover" xpos="-125" ypos="0" zpos="-875" tip-name="H4" guid="UjhOS95cTE2v3azj+G4W/g=="/>
+        <POI mapid="21" type="grid.hover" xpos="125" ypos="0" zpos="-875" tip-name="H5" guid="qRP6wsgKtUm/XtHePTmOsQ=="/>
+        <POI mapid="21" type="grid.hover" xpos="375" ypos="0" zpos="-875" tip-name="H6" guid="WV0UmYAW7UWuXF/e+gKtXw=="/>
+        <POI mapid="21" type="grid.hover" xpos="625" ypos="0" zpos="-875" tip-name="H7" guid="TAFnbP7kokyTNe4PXMUi5g=="/>
+        <POI mapid="21" type="grid.hover" xpos="875" ypos="0" zpos="-875" tip-name="H8" guid="DGRFdg9+JkSc68qwml/fbQ=="/>
+    </POIs>
+</OverlayData>

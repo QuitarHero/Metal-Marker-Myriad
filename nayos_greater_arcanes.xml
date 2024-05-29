@@ -1,13 +1,22 @@
 <OverlayData>
     <!-- Discord Invite:https://discord.gg/FP8dQj6KBj -->
-    <MarkerCategory Name="exploration" DisplayName="Exploration">
-        <MarkerCategory Name="resources" DisplayName="Resources">
-            <MarkerCategory Name="currency" DisplayName="Map Currencies and Other">
-                <MarkerCategory name="ancient_unusual_coin" DisplayName="Ancient/Unusual Coin"/>
+    <MarkerCategory name="mmm" displayname="Metal Marker Myriad">
+        <MarkerCategory Name="exploration" DisplayName="Exploration">
+            <MarkerCategory Name="resources" DisplayName="Resources">
+                <MarkerCategory Name="currency" DisplayName="Map Currencies and Other">
+                    <MarkerCategory name="ancient_unusual_coin" DisplayName="Ancient/Unusual Coin"/>
+                </MarkerCategory>
             </MarkerCategory>
         </MarkerCategory>
     </MarkerCategory>
     <POIs>
-        <Trail type="exploration.resources.currency.ancient_unusual_coin" trailData="Data/Trails/nayos_greater_arcanes.trl" texture="Data/Icons/arrow_trail.png" fadeNear="3000" fadeFar="5000" color="56b4e9"/>
+        <Trail type="mmm.exploration.resources.currency.ancient_unusual_coin" trailData="Data/Trails/nayos_greater_arcanes.trl" texture="Data/Icons/arrow_trail.png" fadeNear="3000" fadeFar="5000" color="56b4e9"/>
+		<POI MapID="1526" xpos="967.103" ypos="225.218" zpos="355.706" type="mmm.exploration.resources.currency.ancient_unusual_coin" GUID="nPaPWSpHxUytschNhzWbJA=="/>
+		<POI MapID="1526" xpos="957.273" ypos="213.854" zpos="306.649" type="mmm.exploration.resources.currency.ancient_unusual_coin" GUID="fY87mOQwC0C9Cr1lpwOA5g=="/>
+		<POI MapID="1526" xpos="924.443" ypos="225.163" zpos="381.957" type="mmm.exploration.resources.currency.ancient_unusual_coin" GUID="SEy59JGfG0i7o5lXjvIjCw=="/>
+		<POI MapID="1526" xpos="102.169" ypos="283.675" zpos="-159.444" type="mmm.exploration.resources.currency.ancient_unusual_coin" GUID="KHRoGd7kTkSNkWcMAqZsTQ=="/>
+		<POI MapID="1526" xpos="25.3311" ypos="269.492" zpos="563.109" type="mmm.exploration.resources.currency.ancient_unusual_coin" GUID="5SGMA1wX1kGGZmUFBAv9AA=="/>
+		<POI MapID="1526" xpos="153.739" ypos="424.828" zpos="-25.0379" type="mmm.exploration.resources.currency.ancient_unusual_coin" GUID="KllVXqk2ekmGgwFl0Q/xeg=="/>
+
     </POIs>
 </OverlayData>
