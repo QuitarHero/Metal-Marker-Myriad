@@ -1,12 +1,16 @@
-<OverlayData>
+<!DOCTYPE OverlayData PUBLIC "" "https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.dtd">
+<OverlayData 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
+xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
 	<!-- Discord Invite:https://discord.gg/FP8dQj6KBj -->
     <!-- Credit to Luaren on YT! https://www.youtube.com/watch?v=Rd6gCSsgMUo -->
-	<MarkerCategory name="mmm" displayname="Metal Marker Myriad">
-		<MarkerCategory Name="exploration" DisplayName="Exploration">
-			<MarkerCategory Name="resources" DisplayName="Resources">
-				<MarkerCategory Name="currency" DisplayName="Map Currencies and Other">
-					<MarkerCategory Name="gasp" DisplayName="Calcified Gasp" fadeNear="3000" fadeFar="5000" >
-						<MarkerCategory Name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/ring.png" fadeNear="1500" fadeFar="2500" miniMapVisibility="0" mapVisibility="0"/>
+	<MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
+		<MarkerCategory name="exploration" DisplayName="Exploration">
+			<MarkerCategory name="resources" DisplayName="Resources">
+				<MarkerCategory name="currency" DisplayName="Map Currencies and Other">
+					<MarkerCategory name="gasp" DisplayName="Calcified Gasp" fadeNear="3000" fadeFar="5000" >
+						<MarkerCategory name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/ring.png" fadeNear="1500" fadeFar="2500" miniMapVisibility="0" mapVisibility="0"/>
 					</MarkerCategory>
 				</MarkerCategory>
 			</MarkerCategory>
@@ -14,7 +18,7 @@
 	</MarkerCategory>
 	<POIs>
 		<!-- Inner Nayos -->
-		<Trail type="mmm.exploration.resources.currency.gasp" trailData="Data/Trails/luaren_nayos_gasps.trl" texture="Data/Icons/luaren_uwu_arrow.png" color="ff6ede"/>
+		<Trail type="mmm.exploration.resources.currency.gasp" trailData="Data/Trails/luaren_nayos_gasps.trl" texture="Data/Icons/luaren_uwu_arrow.png" color="#ff6ede"/>
 		<POI MapID="1526" xpos="654.728" ypos="201.499" zpos="-133.086" type="mmm.exploration.resources.currency.gasp.orbs" GUID="BmfBpKDBPUm/mbBsC+gTPw=="/>
 		<POI MapID="1526" xpos="676.355" ypos="224.592" zpos="-126.06" type="mmm.exploration.resources.currency.gasp.orbs" GUID="ivRG9NB6Bkq4EKw1ULkuow=="/>
 		<POI MapID="1526" xpos="647.598" ypos="232.961" zpos="-93.4242" type="mmm.exploration.resources.currency.gasp.orbs" GUID="ibjr5zuzqkm6r2vEiEhEUw=="/>
@@ -94,4 +98,4 @@
 		<POI MapID="536" xpos="-254.667" ypos="18.1654" zpos="-346.736" type="mmm.exploration.resources.currency.gasp.orbs" GUID="3kkbWkXItEezTwUiEJOIGQ=="/>
 		<POI MapID="536" xpos="-246.63" ypos="21.3626" zpos="-340.22" type="mmm.exploration.resources.currency.gasp.orbs" GUID="wov++yskE0a2do7XW48mPw=="/>
 	</POIs>
-</OverlayData>
+</overlaydata>

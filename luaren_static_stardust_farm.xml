@@ -1,15 +1,19 @@
-<OverlayData>
+<!DOCTYPE OverlayData PUBLIC "" "https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.dtd">
+<OverlayData 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
+xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
 	<!-- Discord Invite:https://discord.gg/FP8dQj6KBj -->
     <!-- Credit to Luaren on YT! https://www.youtube.com/watch?v=bPrZEC3-cAA and https://www.youtube.com/watch?v=CY8FsXuKS3c -->
-	<MarkerCategory name="mmm" displayname="Metal Marker Myriad">
-		<MarkerCategory Name="exploration" DisplayName="Exploration">
-			<MarkerCategory Name="resources" DisplayName="Resources">
-				<MarkerCategory Name="currency" DisplayName="Map Currencies and Other">
-					<MarkerCategory Name="staticcharge" DisplayName="Static Charge" fadeNear="3000" fadeFar="5000">
-						<MarkerCategory Name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/ring.png" fadeNear="1500" fadeFar="2500" miniMapVisibility="0" mapVisibility="0"/>
+	<MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
+		<MarkerCategory name="exploration" DisplayName="Exploration">
+			<MarkerCategory name="resources" DisplayName="Resources">
+				<MarkerCategory name="currency" DisplayName="Map Currencies and Other">
+					<MarkerCategory name="staticcharge" DisplayName="Static Charge" fadeNear="3000" fadeFar="5000">
+						<MarkerCategory name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/ring.png" fadeNear="1500" fadeFar="2500" miniMapVisibility="0" mapVisibility="0"/>
 					</MarkerCategory>
-					<MarkerCategory Name="stardust" DisplayName="Pinch of Stardust" fadeNear="3000" fadeFar="5000">
-						<MarkerCategory Name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/ring.png" fadeNear="1500" fadeFar="2500" miniMapVisibility="0" mapVisibility="0"/>
+					<MarkerCategory name="stardust" DisplayName="Pinch of Stardust" fadeNear="3000" fadeFar="5000">
+						<MarkerCategory name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Icons/ring.png" fadeNear="1500" fadeFar="2500" miniMapVisibility="0" mapVisibility="0"/>
 					</MarkerCategory>
 				</MarkerCategory>
 			</MarkerCategory>
@@ -17,7 +21,7 @@
 	</MarkerCategory>
 	<POIs>
 		<!-- Amnytas -->
-		<Trail type="mmm.exploration.resources.currency.stardust" trailData="Data/Trails/luaren_amny_stardust.trl" texture="Data/Icons/luaren_uwu_arrow.png" color="ff6ede"/>
+		<Trail type="mmm.exploration.resources.currency.stardust" trailData="Data/Trails/luaren_amny_stardust.trl" texture="Data/Icons/luaren_uwu_arrow.png" color="#ff6ede"/>
 		<POI MapID="1517" xpos="-676.697" ypos="496.387" zpos="-263.578" type="mmm.exploration.resources.currency.stardust.orbs" GUID="XNNHooZpoUuhZKspkgDXNg=="/>
 		<POI MapID="1517" xpos="-676.694" ypos="463.295" zpos="-263.557" type="mmm.exploration.resources.currency.stardust.orbs" GUID="b3/Wmg4tDUqcqDM/2jveWQ=="/>
 		<POI MapID="1517" xpos="-676.651" ypos="430.195" zpos="-263.608" type="mmm.exploration.resources.currency.stardust.orbs" GUID="Uw1I5ixA3EGJrneWB/3eWw=="/>
@@ -79,7 +83,7 @@
 		<POI MapID="1517" xpos="452.57" ypos="213.067" zpos="-604.116" type="mmm.exploration.resources.currency.stardust.orbs" GUID="Py4iv6YhxEWxzre9dqepew=="/>
 		<POI MapID="1517" xpos="777.59" ypos="298.964" zpos="73.3168" type="mmm.exploration.resources.currency.stardust.orbs" GUID="YjtOv0cP/kCDd1s5r6kWdA=="/>
 		<!-- Skywatch Archipelago -->
-		<Trail type="mmm.exploration.resources.currency.staticcharge" trailData="Data/Trails/luaren_sa_static_charges.trl" texture="Data/Icons/luaren_uwu_arrow.png" color="ff6ede"/>
+		<Trail type="mmm.exploration.resources.currency.staticcharge" trailData="Data/Trails/luaren_sa_static_charges.trl" texture="Data/Icons/luaren_uwu_arrow.png" color="#ff6ede"/>
 		<POI MapID="1510" xpos="-768.099" ypos="484.192" zpos="289.393" type="mmm.exploration.resources.currency.staticcharge" GUID="xJBApjWDLU2AMYiJISBgnA==" iconFile="Data/Icons/finish_flag.png"/>
 		<POI MapID="1510" xpos="-702.104" ypos="563.084" zpos="146.701" type="mmm.exploration.resources.currency.staticcharge.orbs" GUID="sbHw73+WMUKCSJnZ18/edg=="/>
 		<POI MapID="1510" xpos="-702.083" ypos="580.389" zpos="121.707" type="mmm.exploration.resources.currency.staticcharge.orbs" GUID="FJCHcGpw5Uu9zFdG71vTtg=="/>
@@ -118,4 +122,4 @@
 		<POI MapID="1510" xpos="-747.729" ypos="483.188" zpos="310.041" type="mmm.exploration.resources.currency.staticcharge.orbs" GUID="eAXo9IGOmkyf0ziD1Ns4ew=="/>
 		<POI MapID="1510" xpos="-762.343" ypos="483.268" zpos="304.093" type="mmm.exploration.resources.currency.staticcharge.orbs" GUID="5iaxt0uqaUeEoiEcAXrcnA=="/>
 	</POIs>
-</OverlayData>
+</overlaydata>

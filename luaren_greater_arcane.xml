@@ -1,17 +1,21 @@
-<OverlayData>
+<!DOCTYPE OverlayData PUBLIC "" "https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.dtd">
+<OverlayData 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
+xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
     <!-- Discord Invite:https://discord.gg/FP8dQj6KBj -->
     <!-- Credit to Luaren on YT! https://www.youtube.com/watch?v=XJyfZNIXp98 -->
-    <MarkerCategory name="mmm" displayname="Metal Marker Myriad">
-        <MarkerCategory Name="exploration" DisplayName="Exploration">
-            <MarkerCategory Name="resources" DisplayName="Resources">
-                <MarkerCategory Name="currency" DisplayName="Map Currencies and Other">
+    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
+        <MarkerCategory name="exploration" DisplayName="Exploration">
+            <MarkerCategory name="resources" DisplayName="Resources">
+                <MarkerCategory name="currency" DisplayName="Map Currencies and Other">
                     <MarkerCategory name="ancient_unusual_coin" DisplayName="Ancient/Unusual Coin"/>
                 </MarkerCategory>
             </MarkerCategory>
         </MarkerCategory>
     </MarkerCategory>
     <POIs>
-        <Trail type="mmm.exploration.resources.currency.ancient_unusual_coin" trailData="Data/Trails/luaren_sa_g_arcane.trl" texture="Data/Icons/luaren_uwu_arrow.png" fadeNear="3000" fadeFar="5000" color="ff6ede"/>
+        <Trail type="mmm.exploration.resources.currency.ancient_unusual_coin" trailData="Data/Trails/luaren_sa_g_arcane.trl" texture="Data/Icons/luaren_uwu_arrow.png" fadeNear="3000" fadeFar="5000" color="#ff6ede"/>
         <POI MapID="1510" xpos="-645.7746" ypos="549.6155" zpos="160.8512" type="mmm.exploration.resources.currency.ancient_unusual_coin" iconFile="Data/Icons/beetle.png" GUID="wGMDJ+KKmEaypgRhgnv5dQ=="/>
         <POI MapID="1510" xpos="-844.95343" ypos="551.637695" zpos="68.991325" type="mmm.exploration.resources.currency.ancient_unusual_coin" iconFile="Data/Icons/skyscale.png" GUID="onlI8U+4Y0yJ2D1aWblitg=="/>
         <POI MapID="1510" xpos="-626.717102" ypos="586.177246" zpos="-376.652222" type="mmm.exploration.resources.currency.ancient_unusual_coin" iconFile="Data/Icons/griffon.png" GUID="MoSpHn4KDEyIJou0hQ0bIQ=="/>
@@ -36,4 +40,4 @@
 		<POI MapID="1517" xpos="-532.432" ypos="443.31" zpos="756.353" type="mmm.exploration.resources.currency.ancient_unusual_coin" GUID="p6f1v5P/I0SfR8wHrIlnSg=="/>
 		<POI MapID="1517" xpos="-532.031" ypos="443.276" zpos="647.996" type="mmm.exploration.resources.currency.ancient_unusual_coin" GUID="IJbvvcH8rkiDpVjDXOTslA=="/>
     </POIs>
-</OverlayData>
+</overlaydata>

@@ -1,11 +1,15 @@
-<OverlayData>
+<!DOCTYPE OverlayData PUBLIC "" "https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.dtd">
+<OverlayData 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
+xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
     <!-- Discord Invite:https://discord.gg/FP8dQj6KBj -->
-	<MarkerCategory name="mmm" displayname="Metal Marker Myriad">
+	<MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
 		<MarkerCategory name="exploration" DisplayName="Exploration">
 			<MarkerCategory name="resources" DisplayName="Resources">
 				<MarkerCategory name="plants" DisplayName="Plants">
 					<MarkerCategory name="toxicspore" DisplayName="Pristine Toxic Spore Sample" iconFile="Data/Icons/toxic_spore.png">
-						<MarkerCategory name="offshootevents" DisplayName="Toxic Offshoot Events" iconSize="3" color="ff7f7f"/>
+						<MarkerCategory name="offshootevents" DisplayName="Toxic Offshoot Events" iconSize="3" color="#ff7f7f"/>
 					</MarkerCategory>
 				</MarkerCategory>
 			</MarkerCategory>
@@ -88,4 +92,4 @@
 		<POI MapID="23" xpos="827.87" ypos="13.6495" zpos="-98.0679" type="mmm.exploration.resources.plants.toxicspore" GUID="dxi8t0s5ckSHMuUGcX9F2A=="/>
 		<POI MapID="23" xpos="844.129" ypos="96.9226" zpos="-428.022" type="mmm.exploration.resources.plants.toxicspore" GUID="7uYssjLIfE6Eybr7AYmeHg=="/>
     </POIs>
-</OverlayData>
+</overlaydata>

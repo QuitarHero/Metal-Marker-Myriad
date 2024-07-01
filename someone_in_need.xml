@@ -1,9 +1,13 @@
-<OverlayData>
-	<MarkerCategory name="mmm" displayname="Metal Marker Myriad">
-		<MarkerCategory Name="achievements" DisplayName="Achievements">
-			<MarkerCategory Name="general" DisplayName="General">
-				<MarkerCategory Name="community" DisplayName="Community">
-					<MarkerCategory Name="someoneinneed" DisplayName="Someone In Need (Invis Chair)"/>
+<!DOCTYPE OverlayData PUBLIC "" "https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.dtd">
+<OverlayData 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
+xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
+	<MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
+		<MarkerCategory name="achievements" DisplayName="Achievements">
+			<MarkerCategory name="general" DisplayName="General">
+				<MarkerCategory name="community" DisplayName="Community">
+					<MarkerCategory name="someoneinneed" DisplayName="Someone In Need (Invis Chair)"/>
 				</MarkerCategory>
 			</MarkerCategory>
 		</MarkerCategory>
@@ -37,4 +41,4 @@
 		<POI MapID="1045" xpos="-347.631" ypos="107.5" zpos="-188.76" type="mmm.achievements.general.community.someoneinneed" GUID="qxmX1ehdMEKOqzXlYQ3AmA=="/>
 		<POI MapID="1045" xpos="-354.069" ypos="108.268" zpos="-171.264" type="mmm.achievements.general.community.someoneinneed" GUID="ZOELZNkxfU6s1huuTZVUAw=="/>
     </POIs>
-</OverlayData>
+</overlaydata>

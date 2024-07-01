@@ -1,17 +1,21 @@
-<OverlayData>
+<!DOCTYPE OverlayData PUBLIC "" "https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.dtd">
+<OverlayData 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
+xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
     <!-- Discord Invite:https://discord.gg/FP8dQj6KBj -->
     <!-- Credit to Unskippable Cutscene on YT! https://www.youtube.com/watch?v=7SXbg_C-9Lk -->
-    <MarkerCategory name="mmm" displayname="Metal Marker Myriad">
+    <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad">
         <MarkerCategory name="exploration" DisplayName="Exploration">
             <MarkerCategory name="resources" DisplayName="Resources">
                 <MarkerCategory name="currency" DisplayName="Map Currencies and Other">
-                    <MarkerCategory name="echoresin" DisplayName="Chunk of Petrified Echovald Resin" iconFile="data/Icons/echovald_resin.png" bounce="rise" bounce-height="5" autotrigger="1" triggerrange="25"/>
+                    <MarkerCategory name="echoresin" DisplayName="Chunk of Petrified Echovald Resin" iconSize="data/Icons/echovald_resin.png" bounce="rise" bounce-height="5" autoTrigger="1" triggerRange="25"/>
                 </MarkerCategory>
             </MarkerCategory>
         </MarkerCategory>
     </MarkerCategory>
     <POIs>
-        <Trail type="mmm.exploration.resources.currency.echoresin" trailData="Data/Trails/unskippable_cutscene_echovald_resin.trl" texture="Data/Icons/arrow_trail.png" fadeNear="6000" fadeFar="7000" color="009e73"/>
+        <Trail type="mmm.exploration.resources.currency.echoresin" trailData="Data/Trails/unskippable_cutscene_echovald_resin.trl" texture="Data/Icons/arrow_trail.png" fadeNear="6000" fadeFar="7000" color="#009e73"/>
         <POI MapID="1452" xpos="201.192" ypos="191.801" zpos="582.752" type="mmm.exploration.resources.currency.echoresin" GUID="1a9rikooQk+krmqkozmGgQ=="/>
         <POI MapID="1452" xpos="-98.0429" ypos="153.98" zpos="552.583" type="mmm.exploration.resources.currency.echoresin" GUID="Te0Y/32l00uj2VFEGnG9Cw=="/>
         <POI MapID="1452" xpos="243.97" ypos="233.518" zpos="459.772" type="mmm.exploration.resources.currency.echoresin" GUID="CxJT1BEwFUW8DWWKJvo3dg=="/>
@@ -55,4 +59,4 @@
 		<POI MapID="1452" xpos="193.715" ypos="113.966" zpos="-250.302" type="mmm.exploration.resources.currency.echoresin" GUID="bzcjBKAqTEi9aiLA+I9sKg=="/>
 		<POI MapID="1452" xpos="-25.1848" ypos="145.281" zpos="-313.334" type="mmm.exploration.resources.currency.echoresin" GUID="NsOnos6SBUuYyhW4bI//7A=="/>
     </POIs>
-</OverlayData>
+</overlaydata>
