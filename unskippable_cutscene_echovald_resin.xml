@@ -9,7 +9,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <MarkerCategory name="exploration" DisplayName="Exploration">
             <MarkerCategory name="resources" DisplayName="Resources">
                 <MarkerCategory name="currency" DisplayName="Map Currencies and Other">
-                    <MarkerCategory name="echoresin" DisplayName="Chunk of Petrified Echovald Resin" iconSize="data/Icons/echovald_resin.png" bounce="rise" bounce-height="5" autoTrigger="1" triggerRange="25"/>
+                    <MarkerCategory name="echoresin" DisplayName="Chunk of Petrified Echovald Resin" iconFile="data/Icons/echovald_resin.png" bounce="rise" bounce-height="5" autoTrigger="1" triggerRange="25"/>
                 </MarkerCategory>
             </MarkerCategory>
         </MarkerCategory>
