@@ -10,6 +10,9 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
 				<MarkerCategory name="crafting" DisplayName="Crafting-Specific Materials">
 					<MarkerCategory name="honeyflower" DisplayName="Honey Flower" iconFile="Data/Icons/honey_flower.png" bounce="rise" fadeNear="3000" fadeFar="5000"/>
 					<MarkerCategory name="lowlandpine" DisplayName="Lowland Pine Sapling" iconFile="Data/Icons/lowland_pine_log.png" bounce="rise" fadeNear="3000" fadeFar="5000"/>
+                    <MarkerCategory name="chargedtitan" DisplayName="Charged Titan Ore" iconFile="Data/Icons/charged_titan_ore.png" bounce="rise" fadeNear="3000" fadeFar="5000"/>
+                    <MarkerCategory name="rottedamber" DisplayName="Rotted Titan Amber" iconFile="Data/Icons/rotted_titan_amber.png" bounce="rise" fadeNear="3000" fadeFar="5000"/>
+                    <MarkerCategory name="verdantherbs" DisplayName="Verdant Herbs" iconFile="Data/Icons/verdant_herbs.png" bounce="rise" fadeNear="3000" fadeFar="5000"/>
 				</MarkerCategory>
 			</MarkerCategory>
 		</MarkerCategory>
@@ -61,6 +64,12 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1550" xpos="-547.8305" ypos="0.9004736" zpos="190.2869" type="mmm.exploration.resources.crafting.honeyflower" GUID="iW27hsB2XEeNsSzKMLF1Ag=="/>
         <POI MapID="1550" xpos="-7.130404" ypos="237.6954" zpos="-125.3545" type="mmm.exploration.resources.crafting.honeyflower" GUID="tOftEj/BnEW0KANcSMqi3w=="/>
         <POI MapID="1550" xpos="94.19671" ypos="151.8107" zpos="-0.07595532" type="mmm.exploration.resources.crafting.honeyflower" GUID="Tq+xUX0XgE6Ck7QLOADR7A=="/>
+        <POI MapID="1550" xpos="-805.2105" ypos="0.0345154" zpos="525.6912" type="mmm.exploration.resources.crafting.honeyflower" GUID="YJzKBjjH+Um/Q2zqeQx+7A=="/>
+        <POI MapID="1550" xpos="-902.4687" ypos="-0.07421999" zpos="293.5956" type="mmm.exploration.resources.crafting.honeyflower" GUID="MCtRELV240atttWUCGeYwQ=="/>
+        <POI MapID="1550" xpos="-951.2148" ypos="202.5593" zpos="70.71575" type="mmm.exploration.resources.crafting.honeyflower" GUID="Oef47C3VmESWHH0g2+x/rw=="/>
+        <POI MapID="1550" xpos="-901.524" ypos="202.5936" zpos="-46.56037" type="mmm.exploration.resources.crafting.honeyflower" GUID="J+sklDc+LUSwJ/383qBY1g=="/>
+        <POI MapID="1550" xpos="-863.1854" ypos="264.1896" zpos="-282.113" type="mmm.exploration.resources.crafting.honeyflower" GUID="exwgnViKJ0e/VGPtP3AS5Q=="/>
+        
         <!-- Lowland Pine -->
         <POI MapID="1550" xpos="-861.2836" ypos="223.2531" zpos="-112.0029" type="mmm.exploration.resources.crafting.lowlandpine" GUID="bWBU+MWZe06VBSyvW1floA=="/>
         <POI MapID="1550" xpos="-655.373" ypos="2.245202" zpos="541.2941" type="mmm.exploration.resources.crafting.lowlandpine" GUID="mnlcD8Tj9k2VOrqrTrjIUA=="/>
@@ -78,5 +87,89 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1550" xpos="960.4891" ypos="332.8479" zpos="176.0586" type="mmm.exploration.resources.crafting.lowlandpine" GUID="TddO48gZ9Ey967oqRR4JeQ=="/>
         <POI MapID="1550" xpos="540.0015" ypos="308.8174" zpos="-339.6178" type="mmm.exploration.resources.crafting.lowlandpine" GUID="ninWczW120S2yXOKctBYaQ=="/>
         <POI MapID="1550" xpos="739.0999" ypos="88.48065" zpos="359.3365" type="mmm.exploration.resources.crafting.lowlandpine" GUID="Qh2UoRr4Gk+0A57Ucz0msQ=="/>
+        <POI MapID="1550" xpos="-622.6353" ypos="1.920839" zpos="77.71592" type="mmm.exploration.resources.crafting.lowlandpine" GUID="NUbegJiZREKWA7YCVYN4Eg=="/>
+        <POI MapID="1550" xpos="-893.1376" ypos="20.26843" zpos="361.6619" type="mmm.exploration.resources.crafting.lowlandpine" GUID="FuOtGduQEEm4L8VLO/30qQ=="/>
+        <POI MapID="1550" xpos="-857.5612" ypos="208.0597" zpos="-33.02197" type="mmm.exploration.resources.crafting.lowlandpine" GUID="xeQklxX+8EGEh9Fg2Qaveg=="/>
+        <POI MapID="1550" xpos="-250.9762" ypos="303.2963" zpos="-629.2813" type="mmm.exploration.resources.crafting.lowlandpine" GUID="8q/O2N+DSUqqeimwTNYpFQ=="/>
+        <POI MapID="1550" xpos="221.937" ypos="313.1746" zpos="-548.6794" type="mmm.exploration.resources.crafting.lowlandpine" GUID="FtYYovr7zUm2S7EyeXfvnw=="/>
+        <POI MapID="1550" xpos="515.2436" ypos="309.3617" zpos="-243.8176" type="mmm.exploration.resources.crafting.lowlandpine" GUID="bcOU4KxamUSAoU1xv7zbiQ=="/>
+        <POI MapID="1550" xpos="756.7138" ypos="310.7306" zpos="-353.4261" type="mmm.exploration.resources.crafting.lowlandpine" GUID="OvCXP6T8l0+mHqIA2RyFog=="/>
+        <POI MapID="1550" xpos="687.4011" ypos="324.0539" zpos="40.09615" type="mmm.exploration.resources.crafting.lowlandpine" GUID="jdBpLBmYZE2Zul+KD9m/Vg=="/>
+        <POI MapID="1550" xpos="560.5889" ypos="62.58729" zpos="266.3721" type="mmm.exploration.resources.crafting.lowlandpine" GUID="nIhlFmwM8kaGxVHIsoYpHg=="/>
+        <POI MapID="1550" xpos="135.4633" ypos="212.5217" zpos="196.3986" type="mmm.exploration.resources.crafting.lowlandpine" GUID="rnjLMP5KXk2M9fieEOTRQw=="/>
+        <POI MapID="1550" xpos="316.5947" ypos="308.5193" zpos="14.12279" type="mmm.exploration.resources.crafting.lowlandpine" GUID="dB7svs+MG06fIQXvFQo8aQ=="/>
+        <POI MapID="1550" xpos="-192.669" ypos="221.3652" zpos="-113.1746" type="mmm.exploration.resources.crafting.lowlandpine" GUID="sAIU9SdOgkyH5fBSr1Vs1w=="/>
+        <POI MapID="1550" xpos="-166.393" ypos="77.17547" zpos="276.9211" type="mmm.exploration.resources.crafting.lowlandpine" GUID="Ht9YmdElyEKnMfwTIfF24g=="/>
+        <POI MapID="1550" xpos="-830.8751" ypos="2.952439" zpos="312.1496" type="mmm.exploration.resources.crafting.lowlandpine" GUID="T4sCERbvBk+4St1msKM8Ag=="/>
+        <POI MapID="1550" xpos="-847.3369" ypos="269.576" zpos="-354.2664" type="mmm.exploration.resources.crafting.lowlandpine" GUID="Mxxzbr43VUmiiN0LSvpTZA=="/>
+        <POI MapID="1550" xpos="-381.3895" ypos="211.5352" zpos="-362.18" type="mmm.exploration.resources.crafting.lowlandpine" GUID="s8lTvwEEIkKy11FduxFNGg=="/>
+        <POI MapID="1550" xpos="858.0382" ypos="360.382" zpos="-519.0002" type="mmm.exploration.resources.crafting.lowlandpine" GUID="b2xrZbjgh0S662V20uoe2A=="/>
+        <POI MapID="1550" xpos="828.8227" ypos="325.9996" zpos="-136.3475" type="mmm.exploration.resources.crafting.lowlandpine" GUID="I7gSCjsTmkaSjqbvDOHAGw=="/>
+        <POI MapID="1550" xpos="235.1538" ypos="214.0159" zpos="110.7924" type="mmm.exploration.resources.crafting.lowlandpine" GUID="sF/rcOZwFECsrGvXmXEAPg=="/>
+        
+        <!-- Charged Titan Ore -->
+        <POI MapID="1554" xpos="863.4483" ypos="29.67174" zpos="-681.7254" type="mmm.exploration.resources.crafting.chargedtitan" GUID="7iLjmJHgf0eMvuNzg5KRgg=="/>
+        <POI MapID="1554" xpos="569.5057" ypos="20.39526" zpos="-255.1779" type="mmm.exploration.resources.crafting.chargedtitan" GUID="3rIEtm8bWU6tc8PPA6jvrw=="/>
+        <POI MapID="1554" xpos="386.6839" ypos="39.29078" zpos="424.5493" type="mmm.exploration.resources.crafting.chargedtitan" GUID="EXf8d7qskE+i2ZyA7t9u3w=="/>
+        <POI MapID="1554" xpos="364.3862" ypos="2.524471" zpos="161.2407" type="mmm.exploration.resources.crafting.chargedtitan" GUID="v12PG2JFW060bW+mcL3CtQ=="/>
+        <POI MapID="1554" xpos="-211.5552" ypos="-0.05687774" zpos="-112.9761" type="mmm.exploration.resources.crafting.chargedtitan" GUID="d+cZITW0yEiHcIpE4u2EOA=="/>
+        <POI MapID="1554" xpos="-197.8942" ypos="56.84165" zpos="97.49478" type="mmm.exploration.resources.crafting.chargedtitan" GUID="63HkL4NvQ0iM24uC7xYP8g=="/>
+        <POI MapID="1554" xpos="-573.3963" ypos="31.79852" zpos="-424.739" type="mmm.exploration.resources.crafting.chargedtitan" GUID="MQNfU+0tV0K3AfzFdzd74A=="/>
+        <POI MapID="1554" xpos="-500.165" ypos="73.92498" zpos="-273.2143" type="mmm.exploration.resources.crafting.chargedtitan" GUID="9/vRnn4mfEaCP5yBsNV72Q=="/>
+        <POI MapID="1554" xpos="-790.3361" ypos="37.28766" zpos="329.6156" type="mmm.exploration.resources.crafting.chargedtitan" GUID="1UKhvQ1tDkSRvFKJ6IDSmg=="/>
+        <POI MapID="1554" xpos="-621.5895" ypos="38.61971" zpos="424.9633" type="mmm.exploration.resources.crafting.chargedtitan" GUID="3DWoLnT6cEiUba9kESkREQ=="/>
+        <POI MapID="1554" xpos="575.4603" ypos="4.0912" zpos="-109.6527" type="mmm.exploration.resources.crafting.chargedtitan" GUID="5B7bk3dSCUGJzHuS6b8JGA=="/>
+        <POI MapID="1554" xpos="551.9741" ypos="64.56081" zpos="575.9495" type="mmm.exploration.resources.crafting.chargedtitan" GUID="oNMbT7re2kWjwY+2pfDQng=="/>
+        <POI MapID="1554" xpos="-116.7092" ypos="26.06303" zpos="-66.10136" type="mmm.exploration.resources.crafting.chargedtitan" GUID="1i1gdrftIEqqI0EpRCf+bg=="/>
+        <POI MapID="1554" xpos="-548.535" ypos="58.06037" zpos="409.0481" type="mmm.exploration.resources.crafting.chargedtitan" GUID="UQ5xZ9u6vUKKAPQ4AQiLBg=="/>
+        <POI MapID="1554" xpos="-184.6344" ypos="8.086801" zpos="-455.5049" type="mmm.exploration.resources.crafting.chargedtitan" GUID="Tmo6JWsbA0yuZPaeZ41pHg=="/>
+        <POI MapID="1554" xpos="17.43404" ypos="19.11832" zpos="-334.0381" type="mmm.exploration.resources.crafting.chargedtitan" GUID="4Ng/lTHEXkyZp1XyfuG4wg=="/>
+        <POI MapID="1554" xpos="904.8898" ypos="43.97195" zpos="-501.8191" type="mmm.exploration.resources.crafting.chargedtitan" GUID="54ZViENPm0SSryZwDsJYmg=="/>
+        <POI MapID="1554" xpos="-712.5908" ypos="50.99942" zpos="408.2592" type="mmm.exploration.resources.crafting.chargedtitan" GUID="TQrs8/Xj9EmpFMome1lRZA=="/>
+        <POI MapID="1554" xpos="234.0109" ypos="9.749889" zpos="84.5871" type="mmm.exploration.resources.crafting.chargedtitan" GUID="nbu8NQ6BtU2V7Y0pzocIsQ=="/>
+        <POI MapID="1554" xpos="-540.5928" ypos="40.36619" zpos="454.5097" type="mmm.exploration.resources.crafting.chargedtitan" GUID="q6r4M2dJSEmDZDF70k42KQ=="/>
+        
+        <!-- Rotted Titan Amber -->
+        <POI MapID="1554" xpos="641.8879" ypos="0.184252" zpos="-161.0382" type="mmm.exploration.resources.crafting.rottedamber" GUID="MAaf6/vKDUGpw/XwBHsqzQ=="/>
+        <POI MapID="1554" xpos="307.8276" ypos="12.05849" zpos="177.7919" type="mmm.exploration.resources.crafting.rottedamber" GUID="T2wezU+Un02/DJfL/PoNkw=="/>
+        <POI MapID="1554" xpos="182.0554" ypos="21.19149" zpos="-639.4" type="mmm.exploration.resources.crafting.rottedamber" GUID="phOSQY9BEke7/cG6FCT1XQ=="/>
+        <POI MapID="1554" xpos="-761.2273" ypos="14.27768" zpos="-614.0688" type="mmm.exploration.resources.crafting.rottedamber" GUID="seNotoS38UOOWHTtYevEsQ=="/>
+        <POI MapID="1554" xpos="-448.8235" ypos="67.08221" zpos="22.30637" type="mmm.exploration.resources.crafting.rottedamber" GUID="9FUcUg+POUidQNCvT0Gfrw=="/>
+        <POI MapID="1554" xpos="-723.8921" ypos="50.09133" zpos="-300.1781" type="mmm.exploration.resources.crafting.rottedamber" GUID="pRck7V8sfUKJVz8IAgnH5g=="/>
+        <POI MapID="1554" xpos="-518.782" ypos="91.40501" zpos="-229.0179" type="mmm.exploration.resources.crafting.rottedamber" GUID="6/+Uq2KeeUGqbJDkmKoakw=="/>
+        <POI MapID="1554" xpos="-762.5439" ypos="46.10231" zpos="530.2304" type="mmm.exploration.resources.crafting.rottedamber" GUID="a6XTY0DVBECRLXvmPjqC7A=="/>
+        <POI MapID="1554" xpos="-688.2164" ypos="54.45367" zpos="378.05" type="mmm.exploration.resources.crafting.rottedamber" GUID="fgmI9ACIT0O+MnDYGjClrg=="/>
+        <POI MapID="1554" xpos="319.8167" ypos="4.434664" zpos="500.4839" type="mmm.exploration.resources.crafting.rottedamber" GUID="RacRoqQxlUiC2WOmts4Eyw=="/>
+        <POI MapID="1554" xpos="-698.9399" ypos="49.30671" zpos="-341.8394" type="mmm.exploration.resources.crafting.rottedamber" GUID="SPgyyaLDt0eOw5MmdWbeUA=="/>
+        <POI MapID="1554" xpos="-275.3347" ypos="29.17125" zpos="-144.4699" type="mmm.exploration.resources.crafting.rottedamber" GUID="KjO3uKCpTEyG3RMEtjjBbA=="/>
+        <POI MapID="1554" xpos="-759.8111" ypos="78.00202" zpos="672.2704" type="mmm.exploration.resources.crafting.rottedamber" GUID="iDfedfyuwU6l4zNvaT+9cA=="/>
+        <POI MapID="1554" xpos="-761.4384" ypos="46.10548" zpos="473.1867" type="mmm.exploration.resources.crafting.rottedamber" GUID="7OKJClMRjkG0oc4q29gVzA=="/>
+        <POI MapID="1554" xpos="-740.2592" ypos="42.8641" zpos="654.5776" type="mmm.exploration.resources.crafting.rottedamber" GUID="IGeK8gjlBUCeZ2WPTeaY8Q=="/>
+        
+        <!-- Verdant Herbs -->
+        <POI MapID="1550" xpos="347.1443" ypos="333.647" zpos="-186.0601" type="mmm.exploration.resources.crafting.verdantherbs" GUID="njGVgj7O0keQXLBI/69SHw=="/>
+        <POI MapID="1550" xpos="227.5432" ypos="213.7676" zpos="174.7712" type="mmm.exploration.resources.crafting.verdantherbs" GUID="Uq2x0R5PEEu0sUJEYqeWWA=="/>
+        <POI MapID="1550" xpos="187.5203" ypos="213.5134" zpos="224.3768" type="mmm.exploration.resources.crafting.verdantherbs" GUID="vjiC6PUFOUevOL80gZOa/w=="/>
+        <POI MapID="1550" xpos="184.3074" ypos="213.8856" zpos="186.8718" type="mmm.exploration.resources.crafting.verdantherbs" GUID="lyR7GNWfv0qIVVzpQCOmOg=="/>
+        <POI MapID="1550" xpos="195.4315" ypos="213.3523" zpos="269.4771" type="mmm.exploration.resources.crafting.verdantherbs" GUID="m6bZA3oYoEOhES9a9bsdCQ=="/>
+        <POI MapID="1554" xpos="560.2751" ypos="0.2153976" zpos="-397.0622" type="mmm.exploration.resources.crafting.verdantherbs" GUID="VJVNsAHEzEeo9J5fRxGqrg=="/>
+        <POI MapID="1554" xpos="580.02" ypos="4.261858" zpos="-278.2209" type="mmm.exploration.resources.crafting.verdantherbs" GUID="JvUqBa+QPkm0/OIBBRkQJQ=="/>
+        <POI MapID="1554" xpos="286.9517" ypos="5.678013" zpos="-91.96034" type="mmm.exploration.resources.crafting.verdantherbs" GUID="dQgMD9+I2ky5+0wwOs0BZQ=="/>
+        <POI MapID="1554" xpos="103.0382" ypos="18.34511" zpos="-615.8388" type="mmm.exploration.resources.crafting.verdantherbs" GUID="d/IyP13AUUGUZtQy3UorYw=="/>
+        <POI MapID="1554" xpos="-593.6946" ypos="7.798474" zpos="-583.2307" type="mmm.exploration.resources.crafting.verdantherbs" GUID="zvCbLYSADkyiCi2Ftkmriw=="/>
+        <POI MapID="1554" xpos="-18.12734" ypos="14.72849" zpos="-122.5495" type="mmm.exploration.resources.crafting.verdantherbs" GUID="VTO7DXOEd0aI3/XT2QCUPQ=="/>
+        <POI MapID="1554" xpos="-10.65579" ypos="13.5266" zpos="-11.47455" type="mmm.exploration.resources.crafting.verdantherbs" GUID="CZuPVYXDK0+uysjaGxBXMw=="/>
+        <POI MapID="1554" xpos="-404.5785" ypos="54.297" zpos="-291.2229" type="mmm.exploration.resources.crafting.verdantherbs" GUID="chPvF+Q+I0unsH1Ogh6Tjg=="/>
+        <POI MapID="1554" xpos="548.4717" ypos="13.50955" zpos="-218.0148" type="mmm.exploration.resources.crafting.verdantherbs" GUID="bvyBG9ano0yq6EYyXYWoWA=="/>
+        <POI MapID="1554" xpos="618.4809" ypos="2.584257" zpos="6.393119" type="mmm.exploration.resources.crafting.verdantherbs" GUID="+pQLQZNkHkuShstewRr1ng=="/>
+        <POI MapID="1554" xpos="407.5913" ypos="6.974648" zpos="-150.033" type="mmm.exploration.resources.crafting.verdantherbs" GUID="1FglPnRlREGKtHMahThcyA=="/>
+        <POI MapID="1554" xpos="-519.6701" ypos="23.47272" zpos="-639.2236" type="mmm.exploration.resources.crafting.verdantherbs" GUID="CqSX0gaTHEKl3FiFiuYXiw=="/>
+        <POI MapID="1554" xpos="-412.9922" ypos="18.67354" zpos="-436.6494" type="mmm.exploration.resources.crafting.verdantherbs" GUID="D6xiY+ymJ0aVEex4VzghYw=="/>
+        <POI MapID="1554" xpos="-155.7952" ypos="8.551723" zpos="-436.1001" type="mmm.exploration.resources.crafting.verdantherbs" GUID="3x/wW+GbcE6ixeI3540DOg=="/>
+        <POI MapID="1554" xpos="115.0449" ypos="20.85191" zpos="-302.0767" type="mmm.exploration.resources.crafting.verdantherbs" GUID="I1rX+A3MTUCqdqARJO5g/A=="/>
+        <POI MapID="1550" xpos="444.1009" ypos="321.8474" zpos="-122.2871" type="mmm.exploration.resources.crafting.verdantherbs" GUID="NRGEEl1nB0+DJDscWiSOIg=="/>
+        <POI MapID="1550" xpos="620.0628" ypos="255.0823" zpos="-142.7681" type="mmm.exploration.resources.crafting.verdantherbs" GUID="PPU8BY7HlU6s9jGmNyYVsA=="/>
+        <POI MapID="1554" xpos="203.843" ypos="8.519143" zpos="12.43094" type="mmm.exploration.resources.crafting.verdantherbs" GUID="168e7jCpB0edi2cq3Tn9rA=="/>
+        
     </POIs>
 </overlaydata>
